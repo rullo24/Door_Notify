@@ -1,0 +1,160 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "TIP122" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "T" (id 0) (at -6.35038 7.62046 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "TIP122" (id 1) (at -4.0719 5.08987 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "TIP122:TO220" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "ON Semiconductor" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\nBipolar (BJT) Transistor NPN - Darlington 100 V 5 A - 2 W Through Hole TO-220-3\n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "TO-220-3 ON Semiconductor" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/TIP122/Onsemi/view-part/?ref=snap" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "TIP122" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=550441&manufacturer=ON Semiconductor&part_name=TIP122&search_term=None" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/TIP122/Onsemi/view-part/?ref=eda" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "TIP122_0_0"
+      (polyline
+        (pts (xy 5.08 2.54) (xy 2.032 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 1.424 -1.424) (xy 2.286 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.921 -2.54) (xy 2.286 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.916 -2.186) (xy 1.424 -1.424)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.286 -2.54) (xy 0.916 -2.186)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.032 2.54) (xy 0.508 1.27)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 5.08 0.0) (xy 3.683 -1.27)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 5.08 -5.08) (xy 3.964 -4.699)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 4.572 -4.064) (xy 5.08 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.964 -4.699) (xy 4.572 -4.064)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 1.186 -1.84) (xy 0.208 -1.197)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 4.28 -4.38) (xy 3.483 -3.61)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.159 -2.413) (xy 1.397 -1.524)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 1.397 -1.524) (xy 1.016 -2.159)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 1.016 -2.159) (xy 2.032 -2.413)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 2.032 -2.413) (xy 1.397 -1.651)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 1.397 -1.651) (xy 1.143 -2.032)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 1.143 -2.032) (xy 1.905 -2.286)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 -2.286) (xy 1.397 -1.778)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.397 -1.778) (xy 1.397 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.953 -4.953) (xy 4.572 -4.191)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 4.572 -4.191) (xy 4.064 -4.699)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 4.064 -4.699) (xy 4.826 -4.953)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 4.826 -4.953) (xy 4.572 -4.318)) (stroke (width 0.127))
+      )
+      (polyline
+        (pts (xy 4.572 -4.318) (xy 4.191 -4.699)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.191 -4.699) (xy 4.699 -4.826)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.699 -4.826) (xy 4.572 -4.572)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.572 -4.572) (xy 4.445 -4.572)) (stroke (width 0.254))
+      )
+      (circle (center 5.08 2.54) (radius 0.381)
+        (stroke (width 0.0)) (fill (type none))
+      )
+      (rectangle (start -0.254377 -2.54377) (end 0.508 2.54)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (rectangle (start 2.92403 -5.08528) (end 3.683 0.0)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (pin passive line (at -2.54 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -7.62 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 2.54 270.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

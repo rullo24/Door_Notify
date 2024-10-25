@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TVS_1.5KE6.8CA")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/01-door_notify/v2/CAD_Components/1.5KE6.8CA/1.5KE6.8CA.kicad_sym")(options "")(descr ""))
+  (lib (name "Terminal_Block")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/01-door_notify/v2/CAD_Components/EBBA-02-C-SS-BU/EBBA-02-C-SS-BU.kicad_sym")(options "")(descr ""))
+)

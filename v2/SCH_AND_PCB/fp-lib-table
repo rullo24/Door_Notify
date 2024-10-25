@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TVS_1.5KE6.8CA")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/01-door_notify/v2/CAD_Components/1.5KE6.8CA")(options "")(descr ""))
+  (lib (name "TIP122")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/03-eda_parts/01-TIP122")(options "")(descr ""))
+  (lib (name "USB-AM-S-X-X-TH")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/03-eda_parts/02-USB-AM-S-X-X-TH")(options "")(descr ""))
+  (lib (name "EBBA-02-C-SS-BU")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/01-door_notify/v2/CAD_Components/EBBA-02-C-SS-BU")(options "")(descr ""))
+)
